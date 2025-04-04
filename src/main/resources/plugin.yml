@@ -1,0 +1,4 @@
+name: MyFirstPlugin
+version: 1.0
+main: com.cavemancode.MyFirstPlugin
+api-version: 1.20
